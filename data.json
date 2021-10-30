@@ -1,0 +1,32 @@
+[
+    {
+        "class":"cost",
+        "patterns":["What are the prices","How much does it cost","What are the prices of products"],
+        "responses":["Tea is 5 Dollars and Coffee is 6 Dollars"]
+    },
+    {
+        "class":"delivery",
+        "patterns":["How long does delivery take","How long does shipping take","When do I get my delivery"],
+        "responses":["Delivery takes 2-4 days","Shipping takes 2-4 days"]
+    },
+    {
+        "class":"goodbye",
+        "patterns":["Bye","Have a nice day","Goodbye","See you later"],
+        "responses":["See you later","Thanks for visiting","Looking forward to seeing you again"]
+    },
+    {
+        "class":"greeting",
+        "patterns":["Hi","Hello","Hey","Good day"],
+        "responses":["Hi","Hello, thanks for visiting","Hi. How can i help you"]
+    },
+    {
+        "class":"items",
+        "patterns":["What do you sell","What are items"],
+        "responses":["We sell coffee and tea","We have coffee and tea"]
+    },
+    {
+        "class":"thanks",
+        "patterns":["Thanks","Thank you","Thank you for everything"],
+        "responses":["You are welcome","Any time you want","My pleasure"]
+    }
+]
